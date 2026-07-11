@@ -1,4 +1,4 @@
-# Project Setup Guide
+# Project Setup 
 
 This guide provides step-by-step instructions to set up your project environment, including setting up a Python virtual environment using Pipenv, pip, or conda.
 
